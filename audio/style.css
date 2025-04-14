@@ -1,0 +1,11 @@
+h1{
+    color: cyan;
+    background-color: rgb(245, 2, 253);
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color:black ;
+color: white;
+   
+}
